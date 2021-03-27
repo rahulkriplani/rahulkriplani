@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulkriplani
-- 👀 I’m interested in Full Stack
+- 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning React Typescript, Nodejs, Socket.io, WebRTC
 
 
