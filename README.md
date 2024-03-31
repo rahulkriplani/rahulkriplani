@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulkriplani
-- 👀 I’m interested in
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently working in PySpark, Python
 
 
 <!---
